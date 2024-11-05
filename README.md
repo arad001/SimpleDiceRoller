@@ -9,3 +9,16 @@ you can run this in python without
 installing any pip package because
 i used libraries that are included in every
 python installation
+
+to run the code do:
+```
+git clone https://github.com/arad001/SimpleDiceRoller
+```
+and also do:
+```
+cd SimpleDiceRoller
+```
+and run the code by doing:
+```
+python main.py
+```
